@@ -1,6 +1,6 @@
 #pragma once
-#include "String.h"
-#include "structs.h"
+#include "String.hpp"
+#include "structs.hpp"
 
 void loadSize(Map *m);
 void loadMap(Map *m);

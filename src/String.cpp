@@ -1,4 +1,4 @@
-#include "String.h"
+#include "String.hpp"
 #define BUFFERSIZE 512
 #define DELIMITER '\n'
 

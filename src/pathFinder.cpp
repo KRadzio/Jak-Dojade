@@ -1,4 +1,4 @@
-#include "pathFinder.h"
+#include "pathFinder.hpp"
 
 void processTask(Map *map)
 {

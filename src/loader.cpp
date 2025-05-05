@@ -1,4 +1,4 @@
-#include "loader.h"
+#include "loader.hpp"
 #define CITY_SIGN '*'
 #define ROAD_SIGN '#'
 

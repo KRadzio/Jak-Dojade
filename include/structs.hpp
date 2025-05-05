@@ -1,5 +1,5 @@
 #pragma once
-#include "String.h"
+#include "String.hpp"
 #define NOT_FOUND -1
 
 struct Neighbour

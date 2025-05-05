@@ -1,7 +1,7 @@
-#include "String.h"
-#include "loader.h"
-#include "structs.h"
-#include "pathFinder.h"
+#include "String.hpp"
+#include "loader.hpp"
+#include "structs.hpp"
+#include "pathFinder.hpp"
 
 using namespace std;
 

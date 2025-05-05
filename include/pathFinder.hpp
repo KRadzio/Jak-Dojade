@@ -1,6 +1,6 @@
 #pragma once
-#include "String.h"
-#include "structs.h"
+#include "String.hpp"
+#include "structs.hpp"
 #define DIST_ONLY 0
 #define DIST_AND_PATH 1
 
